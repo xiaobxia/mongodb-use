@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-use",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaobxia/mongodb-use.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaobxia/mongodb-use/issues"
+  },
+  "homepage": "https://github.com/xiaobxia/mongodb-use#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "mongoose": "^4.13.9"
+  }
+}
